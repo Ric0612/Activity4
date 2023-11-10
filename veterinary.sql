@@ -154,3 +154,6 @@ WHERE dfirstname = 'Dr. Sofia';
 
 SELECT DISTINCT species
 FROM animals;
+
+SELECT DISTINCT species
+FROM animals;
